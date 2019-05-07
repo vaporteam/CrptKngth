@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crptonight", "Crptonight\Crptonight.csproj", "{11AB5AD1-0840-4817-8FB1-E0186189DBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AB5AD1-0840-4817-8FB1-E0186189DBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AB5AD1-0840-4817-8FB1-E0186189DBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AB5AD1-0840-4817-8FB1-E0186189DBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AB5AD1-0840-4817-8FB1-E0186189DBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD37DC1-D0B3-47CC-BD85-83B750BB44C7}
+	EndGlobalSection
+EndGlobal

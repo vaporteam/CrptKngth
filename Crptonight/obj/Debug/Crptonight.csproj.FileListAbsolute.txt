@@ -1,0 +1,7 @@
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\bin\Debug\Crptonight.exe.config
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\bin\Debug\Crptonight.exe
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\bin\Debug\Crptonight.pdb
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\obj\Debug\Crptonight.csprojAssemblyReference.cache
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\obj\Debug\Crptonight.csproj.CoreCompileInputs.cache
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\obj\Debug\Crptonight.exe
+C:\Users\pablo.cruz\WorkSpaceC#\Crptonight\Crptonight\obj\Debug\Crptonight.pdb
