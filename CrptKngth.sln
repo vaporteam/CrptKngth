@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crptonight", "Crptonight\Crptonight.csproj", "{11AB5AD1-0840-4817-8FB1-E0186189DBFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrptKngth", "Crptonight\CrptKngth.csproj", "{11AB5AD1-0840-4817-8FB1-E0186189DBFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

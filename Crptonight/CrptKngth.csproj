@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{11AB5AD1-0840-4817-8FB1-E0186189DBFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Crptonight</RootNamespace>
-    <AssemblyName>Crptonight</AssemblyName>
+    <RootNamespace>CrptKngth</RootNamespace>
+    <AssemblyName>CrptKngth</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
